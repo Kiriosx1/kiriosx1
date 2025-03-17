@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kiriox1 my real name is kyros :)</h1>
-<h3 align="center">C++ Programmer | Python Enthusiast | Beginner in C & C# | Linux User & Scripter/h3>
+<h3 align="center">C++ Programmer | Python Enthusiast | Beginner in C & C# | Linux User & Scripter /h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiriosx1&label=Profile%20views&color=0e75b6&style=flat" alt="kiriosx1" /> </p>
 
