@@ -37,7 +37,7 @@ I'm always working on new ideas and expanding my skills. Excited to explore **ne
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kyrosmpaltak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyrosmpaltak" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/stx3BguY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/stx3BguY" height="30" width="40" /></a>
+<a href="https://discord.gg/heEtr4Fj6n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/stx3BguY" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
