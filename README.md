@@ -32,12 +32,12 @@ I am planning to build a **full-scale banking system** in **C++ and SQL**, which
 ✔ **Admin & Customer Portals**  
 ✔ **Financial Reports & Analytics**  
 
-📢 **More to Come!**  
+📌 **More to Come!**  
 I'm always working on new ideas and expanding my skills. Excited to explore **network security, AI integration, and automation** in the future!  
 
 ---
 
-<h3 align="left">💌 Connect with me:</h3>
+<h3 align="left">📨 Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kyrosmpaltak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyrosmpaltak" height="30" width="40" /></a>
 <a href="https://discord.gg/heEtr4Fj6n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/stx3BguY" height="30" width="40" /></a>
@@ -61,4 +61,9 @@ I'm always working on new ideas and expanding my skills. Excited to explore **ne
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiriosx1&theme=dark" alt="kiriosx1" />
 </p>
 
+### 🐍 Snake Game Contribution Graph:
 ![snake gif](https://github.com/kiriosx1/kiriosx1/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kiriosx1/kiriosx1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
