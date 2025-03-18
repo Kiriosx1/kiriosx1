@@ -60,10 +60,3 @@ I'm always working on new ideas and expanding my skills. Excited to explore **ne
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiriosx1&theme=dark" alt="kiriosx1" />
 </p>
-
-### 🐍 Snake Game Contribution Graph:
-![snake gif](https://github.com/kiriosx1/kiriosx1/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kiriosx1/kiriosx1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
