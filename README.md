@@ -11,16 +11,14 @@
 
 I have a **good experience with Kali Linux** and have explored **cybersecurity and penetration testing**. I've completed various tasks on **TryHackMe** and **Hack The Box**, gaining knowledge in **FTP, DNS, IPs, and networking**. I'm still a **beginner**, but I'm improving my skills every day!  
 
-### 💻 What I Do:
-✔ Developing **GUI-based applications** using **ImGui**  
+### 💻 What I Do:  
 ✔ Writing **efficient and optimized C++ code**  
-✔ Exploring **low-level system programming**  
-✔ Learning **game development concepts**  
+✔ Exploring **low-level system programming**
 ✔ Working with **databases (SQL)**  
 ✔ Practicing **penetration testing and security research**  
 
 ### 🚀 Current Projects:
-🔹 **Multi-Tool Program:** A powerful **GUI-based tool** in C++ featuring system utilities like disk cleanup, system monitoring, process management, file encryption, network tools, and more.  
+🔹 **Multi-Tool Program:** A powerful tool  in C++ featuring system utilities like disk cleanup, system monitoring, process management, file encryption, network tools, and more.  
 
 ### 🏦 Future Plans – Banking System:
 I am planning to build a **full-scale banking system** in **C++ and SQL**, which will include:
