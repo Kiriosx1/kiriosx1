@@ -7,7 +7,9 @@
 
 ## 👨‍💻 About Me:
 
-👋 Hey there! I'm **Kyros (kiriox1)**, a passionate **C++ programmer** with experience in **Python** and beginner-level knowledge of **C and C#**. I also work with **Linux**, writing scripts and automating tasks to improve efficiency.  
+👋 Hey there! I'm **Kyros (kiriox1)**, a passionate **C++ programmer** with experience in **Python** and beginner-level knowledge of **C and C#**. I also work with **Linux**, writing scripts and automating tasks to improve efficiency.
+
+I have a **good experience with Kali Linux** and have explored **cybersecurity and penetration testing**. I've completed various tasks on **TryHackMe** and **Hack The Box**, gaining knowledge in **FTP, DNS, IPs, and networking**. I'm still a **beginner**, but I'm improving my skills every day!  
 
 ### 💻 What I Do:
 ✔ Developing **GUI-based applications** using **ImGui**  
@@ -15,6 +17,7 @@
 ✔ Exploring **low-level system programming**  
 ✔ Learning **game development concepts**  
 ✔ Working with **databases (SQL)**  
+✔ Practicing **penetration testing and security research**  
 
 ### 🚀 Current Projects:
 🔹 **Multi-Tool Program:** A powerful **GUI-based tool** in C++ featuring system utilities like disk cleanup, system monitoring, process management, file encryption, network tools, and more.  
@@ -57,3 +60,6 @@ I'm always working on new ideas and expanding my skills. Excited to explore **ne
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiriosx1&theme=dark" alt="kiriosx1" />
 </p>
+
+### 🐍 Snake Game Contribution Graph:
+![snake gif](https://github.com/kiriosx1/kiriosx1/blob/output/github-contribution-grid-snake.svg)
