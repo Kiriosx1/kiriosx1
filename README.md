@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiriosx1&label=Unique%20Visitors&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/gpg-signature/kiriosx1?label=Verified%20Commits&logo=github&style=flat-square" alt="GPG Key badge"/>
 </p>
 
 <p align="center">
@@ -20,29 +19,48 @@ I have a **good experience with Kali Linux** and have explored **cybersecurity a
 
 ### 💻 What I Do:  
 ✔ Writing **efficient and optimized C++ code**  
-✔ Exploring **low-level system programming** 
-✔ Practicing **penetration testing and security research**  
+✔ Exploring **low-level system programming**  
+✔ Practicing **penetration testing and security research** 
 
-### 🚀 Current Projects:
+---
+
+## 🚀 Current Projects:
 🔹 **Multi-Tool Program:** A powerful tool in C++ featuring system utilities like disk cleanup, system monitoring, process management, file encryption, network tools, and more.  
 
+---
+
+## 🛠️ Future Plans:
+
+### 🔐 Cybersecurity Tools (for GitHub & Portfolio):
+- ✅ **Port Scanner** (Python) — scans a target’s open ports in a custom range  
+- ✅ **Password Generator** — strong and customizable password creation  
+- 🔄 **Hash Cracker Tool** — brute force hashes like MD5 or SHA1 (Python/C++)  
+- 🔍 **Simple Vulnerability Scanner** — automate checking for common flaws (Python)  
+- 📦 **Packet Sniffer** — basic traffic monitoring (Scapy or C)  
+- 📁 **File Encryption Tool** — using AES or RSA  
+
+These tools will be open-source and added to my GitHub with full README docs.
+
+---
 
 📌 **More to Come!**  
-I'm always working on new ideas and expanding my skills. Excited to explore **network security, AI integration, and automation** in the future!  
-
+I'm always working on new ideas and expanding my skills. Future goals include:
+- Advanced **network security tools**
+- Integration with **AI for security automation**
+  
 ---
 
 <h3 align="left">📨 Connect with me:</h3>
 <p align="left">
-<a href="mailto:kyros.businesss@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Email-Kyros.businesss@gmail.com-red?style=flat-square&logo=gmail" alt="kyros.businesss@gmail.com" />
-</a>
-<a href="https://instagram.com/kyrosmpaltak" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyrosmpaltak" height="30" width="40" />
-</a>
-<a href="https://discord.gg/heEtr4Fj6n" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
+  <a href="mailto:kyros.businesss@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/kyrosmpaltak" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/heEtr4Fj6n" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -80,3 +98,4 @@ I'm always working on new ideas and expanding my skills. Excited to explore **ne
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiriosx1&theme=dark" alt="GitHub Streak" />
 </p>
+
