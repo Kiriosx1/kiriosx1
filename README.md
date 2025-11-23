@@ -86,16 +86,10 @@ I'm always working on new ideas and expanding my skills. Future goals include:
 
 ---
 
-## 🌟 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiriosx1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kiriosx1&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kiriosx1&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiriosx1&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiriosx1&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiriosx1&theme=dark" alt="GitHub Streak" />
-</p>
-
+---
+[![](https://visitcount.itsvg.in/api?id=Kiriosx1&icon=0&color=4)](https://visitcount.itsvg.in)
