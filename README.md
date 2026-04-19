@@ -43,8 +43,7 @@ I have a strong foundation in **Kali Linux** and am actively exploring **cyberse
 ![Nmap](https://img.shields.io/badge/Nmap-1A4C70?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
----
-
+----
 ## 🧪 Linux & Cybersecurity Experience
 
 * **Environment:** Daily Linux user (Kali, Ubuntu, Debian-based)  
