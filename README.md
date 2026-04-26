@@ -38,17 +38,25 @@ I have a strong foundation in **Kali Linux** and am actively exploring **cyberse
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### OS & Cybersecurity
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-1A4C70?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-00599C?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Sherlock](https://img.shields.io/badge/Sherlock-FFD700?style=for-the-badge&logo=spyder&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-4FAD5B?style=for-the-badge&logo=nmap&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-29BEB0?style=for-the-badge&logo=ghost&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-333333?style=for-the-badge&logo=telescope&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-F7931E?style=for-the-badge&logo=maltego&logoColor=white)
+
 ![Metasploit](https://img.shields.io/badge/Metasploit-00416A?style=for-the-badge&logo=metasploit&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-800000?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-4CAF50?style=for-the-badge&logo=hashcat&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_The_Ripper-333333?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-00599C?style=for-the-badge&logo=shodan&logoColor=white)
-![Sherlock](https://img.shields.io/badge/Sherlock-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-00AEF0?style=for-the-badge&logo=go&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-C71585?style=for-the-badge&logo=mysql&logoColor=white)
+![BeEF](https://img.shields.io/badge/BeEF_Framework-8B0000?style=for-the-badge&logo=apache-couchdb&logoColor=white)
+
+![Hydra](https://img.shields.io/badge/Hydra-9C00FF?style=for-the-badge&logo=linuxfoundation&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-7289DA?style=for-the-badge&logo=hashcat&logoColor=white)
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-333333?style=for-the-badge&logo=osquery&logoColor=white)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-1A1A1A?style=for-the-badge&logo=ghidra&logoColor=white)
 
 ----
 ## 🧪 Linux & Cybersecurity Experience
