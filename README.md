@@ -42,6 +42,13 @@ I have a strong foundation in **Kali Linux** and am actively exploring **cyberse
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-1A4C70?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-00416A?style=for-the-badge&logo=metasploit&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-800000?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-4CAF50?style=for-the-badge&logo=hashcat&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-333333?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-00599C?style=for-the-badge&logo=shodan&logoColor=white)
+![Sherlock](https://img.shields.io/badge/Sherlock-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ----
 ## 🧪 Linux & Cybersecurity Experience
