@@ -55,33 +55,27 @@ I have a strong foundation in **Kali Linux** and am actively exploring **cyberse
 ----
 ## 🧪 Linux & Cybersecurity Experience
 
-* **Environment:** Daily Linux user (Kali, Ubuntu, Debian-based)  
+* **Environment:** Daily Linux user (Kali Debian-based and Windows)  
 * **Scripting:** Writing Bash scripts & automation tools  
 * **Networking:** Solid fundamentals across FTP, DNS, TCP/IP  
-* **Offensive Tools:** Nmap, Hydra, Gobuster, BurpSuite  
-* **Research:** Beginner in exploit research & malware development
+* **Offensive Tools:** Nmap, Hydra, Gobuster, BurpSuite and more..  
+* **Research:** Beginner in exploit research & and penetrasion testing.
 
 ---
 
 ## 🚀 Current Projects
 
 ### 🔹 Multi-Tool Program (C++)  
-A powerful, optimized system utility tool that handles:  
-- Disk cleanup & System monitoring  
-- Process management  
-- File encryption  
-- Network utilities  
+A powerful, optimized system utility tool 
 
 ---
 
 ## 🔮 Future Plans & Portfolio Roadmap
 
 > *All tools will be open-source with full README documentation as I build them.*
-
-- [x] **Port Scanner** (Python)  
-- [x] **Password Generator** - [ ] **Hash Cracker Tool** (Python/C++)  
-- [ ] **Simple Vulnerability Scanner** - [ ] **Packet Sniffer** (Looking into Scapy or C)  
-- [ ] **File Encryption Tool** (AES or RSA implementation)  
+  
+- [ ] **Simple Vulnerability Scanner** - [ ] **Packet Sniffer** 
+- [ ] **File Encryption Tool** (AES or RSA implementation) 
 
 ---
 
