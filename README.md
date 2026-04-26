@@ -28,14 +28,14 @@ I have a strong foundation in **Kali Linux** and am actively exploring **cyberse
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools.
 
 ### Programming
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### OS & Cybersecurity
+### Cybersecurity Tools.
 ![OSINT](https://img.shields.io/badge/OSINT-00599C?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![Sherlock](https://img.shields.io/badge/Sherlock-FFD700?style=for-the-badge&logo=spyder&logoColor=black)
 ![Nmap](https://img.shields.io/badge/Nmap-4FAD5B?style=for-the-badge&logo=nmap&logoColor=white)
