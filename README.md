@@ -120,8 +120,3 @@ A powerful, optimized system utility tool that handles:
 </p>
 
 ---
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Kiriosx1&icon=0&color=4" alt="Visit Count"/></a>
-</div>
-
