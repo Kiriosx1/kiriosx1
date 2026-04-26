@@ -10,11 +10,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiriosx1&label=Unique%20Visitors&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kiriosx1&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ## 💫 About Me
