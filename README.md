@@ -84,7 +84,6 @@ A powerful, optimized system utility tool
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kiriosx1&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kiriosx1&theme=neon&hide_border=false" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiriosx1&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
@@ -96,9 +95,7 @@ A powerful, optimized system utility tool
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
   <br/><br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kiriosx1&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
+ 
 ---
 
 ## 🔗 Connect With Me
