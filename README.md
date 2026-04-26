@@ -48,7 +48,7 @@ I have a strong foundation in **Kali Linux** and am actively exploring **cyberse
 ![John the Ripper](https://img.shields.io/badge/John_The_Ripper-333333?style=for-the-badge&logo=securityscorecard&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-00599C?style=for-the-badge&logo=shodan&logoColor=white)
 ![Sherlock](https://img.shields.io/badge/Sherlock-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-00AEF0?style=for-the-badge&logo=go&logoColor=white)
 
 ----
 ## 🧪 Linux & Cybersecurity Experience
