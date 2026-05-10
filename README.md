@@ -79,14 +79,6 @@ A powerful, optimized system utility tool
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiriosx1&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiriosx1&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
 
 ---
 
