@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiriosx1! (My real name is Kyros)</h1>
-<h3 align="center">C++ Programmer | Python Enthusiast | Cybersecurity Student | Linux Scripter</h3>
+<h3 align="center">C++ Programmer | Python Enthusiast | Cybersecurity Explorer | Linux Scripter</h3>
 
 <p align="center">
   <a href="https://kiriosx1.github.io/Portofolio/"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-👋 Hey there! I'm **Kyros**, a passionate **C++ programmer** with solid experience in **Python** and beginner-level knowledge of **C and C#**. I also spend a lot of time in **Linux**, writing Bash scripts and automating tasks to improve workflow efficiency.
+👋 Hey there! I'm **Kyros**, a passionate **C++ programmer** with solid experience in **Python** . I also spend a lot of time in **Linux**, writing Bash scripts and automating tasks to improve workflow efficiency.
 
 I have a strong foundation in **Kali Linux** and am actively exploring **cybersecurity, low-level system programming, and penetration testing**. I regularly practice on **TryHackMe** and **Hack The Box**, building my knowledge in networking (FTP, DNS, TCP/IP). I'm constantly learning, breaking things to see how they work, and improving my skills every day!  
 
@@ -36,12 +36,10 @@ I have a strong foundation in **Kali Linux** and am actively exploring **cyberse
 ![Sherlock](https://img.shields.io/badge/Sherlock-FFD700?style=for-the-badge&logo=spyder&logoColor=black)
 ![Nmap](https://img.shields.io/badge/Nmap-4FAD5B?style=for-the-badge&logo=nmap&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-29BEB0?style=for-the-badge&logo=ghost&logoColor=white)
-![Subfinder](https://img.shields.io/badge/Subfinder-333333?style=for-the-badge&logo=telescope&logoColor=white)
 ![Maltego](https://img.shields.io/badge/Maltego-F7931E?style=for-the-badge&logo=maltego&logoColor=white)
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-00416A?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-C71585?style=for-the-badge&logo=mysql&logoColor=white)
 ![BeEF](https://img.shields.io/badge/BeEF_Framework-8B0000?style=for-the-badge&logo=apache-couchdb&logoColor=white)
 
@@ -50,12 +48,11 @@ I have a strong foundation in **Kali Linux** and am actively exploring **cyberse
 ![John The Ripper](https://img.shields.io/badge/John_The_Ripper-333333?style=for-the-badge&logo=osquery&logoColor=white)
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-1A1A1A?style=for-the-badge&logo=ghidra&logoColor=white)
 
 ----
 ## 🧪 Linux & Cybersecurity Experience
 
-* **Environment:** Daily Linux user (Kali Debian-based and Windows)  
+* **Environment:** Daily Linux user (Kali and Windows)  
 * **Scripting:** Writing Bash scripts & automation tools  
 * **Networking:** Solid fundamentals across FTP, DNS, TCP/IP  
 * **Offensive Tools:** Nmap, Hydra, Gobuster, BurpSuite and more..  
@@ -76,9 +73,6 @@ A powerful, optimized system utility tool
   
 - [ ] **Simple Vulnerability Scanner** - [ ] **Packet Sniffer** 
 - [ ] **File Encryption Tool** (AES or RSA implementation) 
-
----
-
 
 ---
 
