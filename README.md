@@ -19,9 +19,6 @@
 
 I have a strong foundation in **Kali Linux** and am actively exploring **cybersecurity, low-level system programming, and penetration testing**. I regularly practice on **TryHackMe** and **Hack The Box**, building my knowledge in networking (FTP, DNS, TCP/IP). I'm constantly learning, breaking things to see how they work, and improving my skills every day!  
 
-### 💻 What I Do
-- ✔️ Writing **efficient and optimized C++ code** - ✔️ Exploring **low-level system programming** - ✔️ Practicing **penetration testing and security research**
-
 ---
 
 ## 🛠️ Languages & Tools.
@@ -53,7 +50,6 @@ I have a strong foundation in **Kali Linux** and am actively exploring **cyberse
 ## 🧪 Linux & Cybersecurity Experience
 
 * **Environment:** Daily Linux user (Kali and Windows)  
-* **Scripting:** Writing Bash scripts & automation tools  
 * **Networking:** Solid fundamentals across FTP, DNS, TCP/IP  
 * **Offensive Tools:** Nmap, Hydra, Gobuster, BurpSuite and more..  
 * **Research:** Beginner in exploit research & and penetrasion testing.
