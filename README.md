@@ -4,8 +4,6 @@
 <p align="center">
   <a href="https://kiriosx1.github.io/Portofolio/"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
   <a href="https://tryhackme.com/p/k1ri0sx1"><img src="https://img.shields.io/badge/TryHackMe-k1ri0sx1-black?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-  <a href="https://github.com/Kiriosx1"><img src="https://img.shields.io/badge/GitHub-Kiriosx1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiriosx1&label=Unique%20Visitors&color=0e75b6&style=flat" alt="Profile views" />
